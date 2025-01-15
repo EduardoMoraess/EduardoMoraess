@@ -5,7 +5,6 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=EduardoMoraes&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=true&border_radius=9" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=EduardoMoraes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&custom_title=Estat%C3%ADstica" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoMoraes&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&custom_title=Linguagens%20mais%20usadas" height="156" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EduardoMoraes&area=false&theme=tokyo-night" height="150" alt="activity-graph graph"  />
