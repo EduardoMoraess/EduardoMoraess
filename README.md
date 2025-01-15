@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Larissa Kich
+# Eduardo Moraes
 
 **`Desenvolvedor Front-End
 `**
