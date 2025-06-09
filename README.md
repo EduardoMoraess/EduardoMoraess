@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Eduardo Moraes
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNINASSAU  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Focado em desenvolvimento Front-End  
 🚀 Aprendendo: React.js, Git, JavaScript, HTML, CSS  
 
